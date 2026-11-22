@@ -21,6 +21,14 @@ Welcome! X Development MAGIC✨️LAB is a public organization intended to make 
 
 To discuss sponsoring the organization or making a donation, please contact the organization through its [GitHub page](https://github.com/X-Development-MAGIC-LAB). No payment or donation link is published in this repository at this time.
 
+## Developer Logo
+
+<p align="center">
+  <img src="assets/developer-logo.svg" alt="X Development MAGIC LAB developer logo: black laboratory flask with an X, green liquid, and rising green bubbles" width="220">
+</p>
+
+The developer mark represents the development identity of X Development MAGIC✨️LAB.
+
 ## Administration & Development
 
 This project is maintained under the X Development MAGIC✨️LAB organization. Project administration and development coordination are handled by the organization's designated administrators and contributors.
