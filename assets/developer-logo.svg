@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">X Development MAGIC LAB developer logo</title>
+  <desc id="desc">A black laboratory flask with a bold black X, bright green liquid, and green bubbles rising above it.</desc>
+  <rect width="512" height="512" fill="#fff"/>
+  <g fill="#00c900">
+    <circle cx="261" cy="39" r="25"/>
+    <circle cx="205" cy="76" r="17"/>
+    <circle cx="259" cy="104" r="13"/>
+    <circle cx="244" cy="174" r="17"/>
+    <circle cx="244" cy="228" r="16"/>
+  </g>
+  <path d="M156 135 H343" fill="none" stroke="#050505" stroke-width="31" stroke-linecap="round"/>
+  <path d="M176 137 V183 C176 204 166 221 154 242 L67 385 C48 416 70 449 105 449 H407 C442 449 464 416 445 385 L358 242 C346 221 336 204 336 183 V137"
+        fill="none" stroke="#050505" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 369 C144 352 164 366 191 368 C222 371 233 346 261 351 C287 355 298 377 329 372 C354 368 370 355 393 368 L420 401 C429 416 417 430 398 430 H114 C94 430 83 414 94 398 Z" fill="#00c900"/>
+  <path d="M156 260 L243 344 L328 260" fill="none" stroke="#050505" stroke-width="39" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M328 260 L243 344 L156 260" fill="none" stroke="#050505" stroke-width="39" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
